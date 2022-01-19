@@ -1,0 +1,48 @@
+body
+{
+    color: rgb(70, 10, 10);
+    font-size: large;
+    background-color: rgb(206, 221, 220);
+}
+.header
+{
+    background-color: powderblue;
+    padding: 5%;
+    font-size: large;
+    color: rgb(179, 42, 32);
+    size: 40%;
+}
+.head2
+{
+    color: purple;
+    text-transform: uppercase;
+    text-align: center;
+}
+.right
+{
+    float: right;
+}
+.horiz
+{
+    width: 10%;
+    border-style: dotted none none;
+    color: rgb(14, 192, 133);
+    border-width: 10px;
+}
+
+.contact
+{
+    
+}
+a:visited
+{
+    color: powderblue;
+}
+a:hover
+{
+    color: green;
+}
+a:active
+{
+    color: hotpink;
+}
